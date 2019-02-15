@@ -1,4 +1,4 @@
-_Connect Four is an project requirement under CMCS 125: Operating Systems taylored for ICS-OS._
+_Connect Four is a project requirement taylored for [ICS-OS](https://github.com/srg-ics-uplb/ics-os) under CMCS 125: Operating Systems._
 
 ## CONNECT FOUR
 Connect Four is a simple strategy game that can be played with anyone, even young children. It is similar to Tic-Tac-Toe but instead of three, the players must aim to connect four pieces in a straight line (horizontally, vertically and diagonally).
