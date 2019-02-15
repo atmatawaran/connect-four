@@ -1,7 +1,4 @@
 /*****************************
-Contributors:
-Matawaran, Ana Marion T. && Vargas, Paul Joshua D.
-
 Credits to: 
 LIGHTS OUT ics-os
 *****************************/
