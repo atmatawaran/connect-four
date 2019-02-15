@@ -1,18 +1,13 @@
-#include "../../sdk/dexsdk.h"
-#include "../../sdk/time.h"
-
-
 /*****************************
+Contributors:
+Matawaran, Ana Marion T. && Vargas, Paul Joshua D.
 
-PROJECT BY: 
-Matawaran, Ana Marion T.
-Vargas, Paul Joshua D.
-CMSC 125 T-1L
-
-Credits to: LIGHTS OUT ics-cs
-
+Credits to: 
+LIGHTS OUT ics-os
 *****************************/
 
+#include "../../sdk/dexsdk.h"
+#include "../../sdk/time.h"
 
 // CONSTANTS
 #define WIDTH 8
